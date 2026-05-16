@@ -6,8 +6,10 @@ LeetCode:
 https://leetcode.com/problems/climbing-stairs/description/
 
 ---
+
 ## Difficulty
 Easy
+
 ---
 
 ## Tags
